@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "School"
+git pull "The school is open!"
 #!/bin/bash
- echo "school"
+git pull "The school is open!"
